@@ -4,10 +4,6 @@ DU AN DAU TIEN CUA NHOM
 + MSSV : 25119112
 + Tới từ trường sư phạm kỹ thuật tphcm
 
--Họ và tên: Huỳnh Ngọc Bảo Long
--MSSV: 25119112
-
-
 + thành viên:
 + Huỳnh Ngọc Bảo Long
 
