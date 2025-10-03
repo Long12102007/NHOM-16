@@ -4,7 +4,7 @@ DU AN DAU TIEN CUA NHOM
 + MSSV : 25119112
 + Tới từ trường sư phạm kỹ thuật tphcm
 
-+ thành viên:
+Thành viên:
 + Huỳnh Ngọc Bảo Long
 
 + Nguyễn Lê Kiến Quân
