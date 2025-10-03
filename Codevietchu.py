@@ -1,6 +1,6 @@
 import time
-text = " hello bé iu của anh"
-tex1= " anh yêu béeee :> <3 "
+text = " hello mọi người"
+tex1= " chào "
 for char in text:
      print(char,end="",flush=True)
      time.sleep(0.1)
