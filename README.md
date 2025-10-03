@@ -4,6 +4,7 @@ DU AN DAU TIEN CUA NHOM
 -Họ và tên: Huỳnh Ngọc Bảo Long
 -MSSV: 25119112
 
+
 + thành viên:
 + Huỳnh Ngọc Bảo Long
 
@@ -11,7 +12,7 @@ DU AN DAU TIEN CUA NHOM
 tới từ đại học sư phạm kỹ thuật tphcm
 
 + Võ Thành nghĩa
-
+từ trường sư phạm kỹ thuật tphcm
 + Nguyễn Vũ Tấn Khoa
 
 + Lê Quốc Trung
